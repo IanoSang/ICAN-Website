@@ -4,121 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7016a284-7281-4919-82bc-02a63c12fcb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ICAN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2a9f931d1a46bcca878ff3946a0f805083c719fc/header.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2a9f931d1a46bcca878ff3946a0f805083c719fc/section.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2a9f931d1a46bcca878ff3946a0f805083c719fc/slider.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2e9d134c6993c3159642583e546578d3cc6c9734/footer.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2f940242abe84e46558e93ef6ba1c2406353c596/header.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2f940242abe84e46558e93ef6ba1c2406353c596/section.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/2f940242abe84e46558e93ef6ba1c2406353c596/slider.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/37fdb46aaeff19f9934fdd2c013439f9c73b4b6e/basic_setup.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/442f34af0511d280cc32b3d12f505b8dfd4a9783/header.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/442f34af0511d280cc32b3d12f505b8dfd4a9783/section.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/442f34af0511d280cc32b3d12f505b8dfd4a9783/slider.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/44ecdd6eab16f098fde2871d86298fd4e394c105/footer.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/6caa69e56dfb7be37b394ae908f7a1c26f5fe8c7/footer.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/6cff293fa906064ead5eaaf39ff5ddfc81d2be55/basic_setup.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/6ffbc54ef40d5977757bbd392397581decf3e6dd/header.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/6ffbc54ef40d5977757bbd392397581decf3e6dd/section.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/6ffbc54ef40d5977757bbd392397581decf3e6dd/slider.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/7186401c0255e4bf3b27829a6b11a75f54647ea2/basic_setup.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/7ab9aa19270160efcb122f81269cde93696000ec/basic_setup.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/9100a09070d36f3b9a6b7d6d60f59ccd7b339606/_variable.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/9100a09070d36f3b9a6b7d6d60f59ccd7b339606/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/977d3654597a8250199e5d388a036d541e24ca9d/_variable.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/977d3654597a8250199e5d388a036d541e24ca9d/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/d089fa2ecc18583bf545450e21ccdf27ae37e9a8/_variable.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/d089fa2ecc18583bf545450e21ccdf27ae37e9a8/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/e64983fc366ab60bdbd8f5eaf868d0d7533d4a78/footer.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/eb3f153957b3cc214c80e6115ee5515c8ff6d0a6/_variable.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.sass-cache/eb3f153957b3cc214c80e6115ee5515c8ff6d0a6/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/fontawsom-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PTSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PTSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Develop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/awereness.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/background/bg-shape-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/background/contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/blog_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/blog_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/blog_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/blog_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/blog_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/blog_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/collabo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/communication 2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/communication.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/eco-living.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/economic.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/friends.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/insipire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inspire art.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/personal-development.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/seedfund.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/donation-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/donation-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slider/slider-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/svg/shap-01.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/volunteer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/popper.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_variable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/base/basic_setup.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/component/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/component/home/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/component/home/section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/component/home/slider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-light-300.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-light-300.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-light-300.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-light-300.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-light-300.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-    </list>
+    <list default="true" id="7016a284-7281-4919-82bc-02a63c12fcb7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +63,7 @@
       <workItem from="1692425227291" duration="1200000" />
       <workItem from="1692522662650" duration="4247000" />
       <workItem from="1692635303287" duration="4452000" />
-      <workItem from="1692692993940" duration="2930000" />
+      <workItem from="1692692993940" duration="3602000" />
     </task>
     <servers />
   </component>
