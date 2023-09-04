@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7016a284-7281-4919-82bc-02a63c12fcb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Develop.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Develop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/communication.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/communication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/insipire.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/insipire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/volunteer.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/volunteer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2St0o60dVKv6LxHTXRY67YXqZEM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,6 +79,11 @@
       <workItem from="1692692993940" duration="4363000" />
       <workItem from="1692855139323" duration="591000" />
       <workItem from="1692864822819" duration="920000" />
+      <workItem from="1692888189828" duration="781000" />
+      <workItem from="1692938886883" duration="599000" />
+      <workItem from="1693379740388" duration="6000" />
+      <workItem from="1693412892292" duration="966000" />
+      <workItem from="1693814683197" duration="1382000" />
     </task>
     <servers />
   </component>
