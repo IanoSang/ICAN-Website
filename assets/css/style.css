@@ -12,11 +12,15 @@ body {
   /*background-color: #FEA339;*/
 }
 .home{
-  background: #FC8E39;
+  background: ghostwhite;
   margin-top: 70px;
 }
 img {
   max-width: 100%; }
+
+.initiativies img{
+    height: 250px;
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0px; }
@@ -53,12 +57,12 @@ header .my-nav {
   top: 0;
   z-index: 999;
   padding: 10px 0px;
-  background: #FEA339;
+  background: ghostwhite;
   -webkit-box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.15); }
 header .sub-01 {
   position: relative;
-  background: #fd1b5b; }
+  background: ghostwhite; }
 header .nav-items {
   display: flex;
   flex-wrap: wrap;
@@ -86,7 +90,7 @@ header .nav-items {
       height: 0.125rem;
       transition: ease-in-out 0.1s;
       box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-      background: #fd1b5b;
+      background: ghostwhite;
       position: relative; }
       header .nav-items .menu-toggle .menu-hamburger.active {
         background: rgba(0, 0, 0, 0);
@@ -180,7 +184,7 @@ header .nav-items {
   left: 0;
   top: 0; }
   .og-hf .my-nav {
-    background: #FC8E39; }
+    background: ghostwhite; }
 
   #communication{
     height: 240px;
@@ -260,7 +264,7 @@ header .nav-items {
               height: 100%;
               width: 100%;
               transform: scale(0);
-              background-color: #FC8E39;
+              background-color: ghostwhite;
               transition: ease-in-out 0.5s;
               border: 1px solid #fd1b5b;
               left: 0;
@@ -281,7 +285,7 @@ header .nav-items {
 /* ================================ Section CSS =============================== */
 .charity-01-main .bg-02-b {
   padding: 50px 0px;
-  background: #FC8E39;
+  background: ghostwhite;
   position: relative;
   overflow: hidden; }
   .charity-01-main .bg-02-b ._do_er_xs {
@@ -323,7 +327,7 @@ header .nav-items {
         margin: 10px 0px;
         padding: 0px; } }
     .charity-01-main .bg-02-b .cal-box .cal-content {
-      background-color: #FC8E39;
+      background-color: ghostwhite;
       padding: 20px 18px;
       text-align: center;
       box-shadow: 0 2px 5px 0 rgba(218, 218, 253, 0.65), 0 2px 5px 0 rgba(206, 206, 238, 0.54); }
@@ -370,7 +374,7 @@ header .nav-items {
       .charity-01-main .bg-02-b .my_row_y {
         margin: 10px 0px; } }
   .charity-01-main .bg-02-b ._cd_xs_we {
-    background: #FC8E39;
+    background: ghostwhite;
     padding: 0 0 20px 0;
     box-shadow: 0 0 12px 0 rgba(221, 221, 221, 0.68);
     margin: 10px 0px 20px 0px; }
@@ -438,19 +442,19 @@ header .nav-items {
     position: relative;
     text-align: center;
     margin: 20px 0px;
-    color: #FC8E39; }
+    color: ghostwhite; }
     .charity-01-main ._ng_cs_we_rw ._lk_bg_cd i {
       font-size: 30px;
       margin-bottom: 10px; }
 .charity-01-main .services-01 {
   padding: 40px 0px;
-  background: #FC8E39;
+  background: ghostwhite;
   position: relative;
   overflow: hidden; }
   .charity-01-main .services-01 .ser-box {
     margin: 20px 0px;
     padding: 15px 18px 20px 15px;
-    background: #FC8E39;
+    background: ghostwhite;
     position: relative;
     text-align: center;
     box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1); }
@@ -472,7 +476,7 @@ header .nav-items {
       color: #373738; }
 .charity-01-main .bg-03 {
   padding: 40px 0px;
-  background: #FC8E39;
+  background: ghostwhite;
   position: relative;
   overflow: hidden; }
   .charity-01-main .bg-03 ._kl_cd {
@@ -481,7 +485,7 @@ header .nav-items {
     position: relative; }
     .charity-01-main .bg-03 ._kl_cd ._oi_er_we {
       text-align: center;
-      background: #FC8E39;
+      background: ghostwhite;
       padding: 18px 15px; }
       .charity-01-main .bg-03 ._kl_cd ._oi_er_we p {
         font-size: 14px;
@@ -565,7 +569,7 @@ header .nav-items {
           z-index: 2;
           overflow: hidden; }
           .charity-01-main .bg-05 .team-wrapper .team-content ul li a:hover {
-            color: #FC8E39; }
+            color: ghostwhite; }
             .charity-01-main .bg-05 .team-wrapper .team-content ul li a:hover::before {
               transform: scale(1);
               opacity: 1;
@@ -593,7 +597,7 @@ header .nav-items {
   .charity-01-main .abt-01::before {
     position: absolute;
     content: "";
-    background: #FC8E39;
+    background: ghostwhite;
     height: 9.375rem;
     width: 9.375rem;
     top: 0%;
@@ -625,7 +629,7 @@ header .nav-items {
 .charity-01-main .bg-0-b {
   padding: 50px 0px;
   position: relative;
-  background: #FC8E39;
+  background: ghostwhite;
   z-index: 2; }
   .charity-01-main .bg-0-b .main-card-contact {
     flex-wrap: wrap;
