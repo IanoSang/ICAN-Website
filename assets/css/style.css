@@ -228,7 +228,7 @@ header .nav-items {
       position: relative; }
       .charity-01-main .banner .wrapper .content h1 {
         font-size: 35px;
-        color: #fd1b5b;
+        color: lightgrey;
         line-height: 50px;
         font-weight: 700;
         text-transform: uppercase; }
@@ -244,7 +244,7 @@ header .nav-items {
         .charity-01-main .banner .wrapper .content .btn-002 ul li {
           display: inline-block;
           margin-right: 0.625rem;
-          background-color: #fd1b5b; }
+          background-color: ghostwhite; }
           .charity-01-main .banner .wrapper .content .btn-002 ul li a {
             color: #fff;
             font-size: 1rem;
@@ -255,7 +255,7 @@ header .nav-items {
             border: 1px transparent;
             z-index: 1; }
             .charity-01-main .banner .wrapper .content .btn-002 ul li a:hover {
-              color: #fd1b5b; }
+              color: ghostwhite; }
               .charity-01-main .banner .wrapper .content .btn-002 ul li a:hover::before {
                 transform: scale(1); }
             .charity-01-main .banner .wrapper .content .btn-002 ul li a::before {
@@ -266,7 +266,7 @@ header .nav-items {
               transform: scale(0);
               background-color: ghostwhite;
               transition: ease-in-out 0.5s;
-              border: 1px solid #fd1b5b;
+              border: 1px solid ghostwhite;
               left: 0;
               top: 0;
               z-index: -1; }
@@ -340,12 +340,12 @@ header .nav-items {
         font-weight: 600;
         margin: 6px 0px; }
       .charity-01-main .bg-02-b .cal-box .cal-content i {
-        color: #fd1b5b;
+        color: ghostwhite;
         font-size: 26px;
         padding: 5px 0px; }
   .charity-01-main .bg-02-b ._jh_oi_cs {
     padding: 17px 20px;
-    border: 2px dotted #fd1b5b;
+    border: 2px dotted ghostwhite;
     position: relative;
     margin: 20px 0px;
     text-align: center; }
@@ -355,7 +355,7 @@ header .nav-items {
         padding: 15px; } }
     .charity-01-main .bg-02-b ._jh_oi_cs i {
       padding: 20px 0px;
-      color: #fd1b5b;
+      color: ghostwhite;
       font-size: 30px;
       font-weight: 200; }
     .charity-01-main .bg-02-b ._jh_oi_cs h2 {
@@ -395,7 +395,7 @@ header .nav-items {
       .charity-01-main .bg-02-b ._cd_xs_we ._lo_de_we_xa a {
         display: block;
         text-align: left;
-        color: #fd1b5b;
+        color: ghostwhite;
         font-size: 16px;
         font-weight: 500;
         margin: 7px 0px 0px; }
@@ -411,14 +411,14 @@ header .nav-items {
         font-weight: 500;
         padding: 10px 0px; }
         .charity-01-main .bg-02-b ._cd_xs_we ._lo_de_we_xa ol li i {
-          color: #fd1b5b;
+          color: ghostwhite;
           margin: 0 10px 0 0; }
       .charity-01-main .bg-02-b ._cd_xs_we ._lo_de_we_xa h2 {
         margin: 7px 0px;
         font-size: 18px;
         font-weight: 600; }
 .charity-01-main ._ng_cs_we_rw {
-  background: #fd1b5b;
+  background: ghostwhite;
   position: relative;
   overflow: hidden;
   padding: 50px 0px; }
@@ -459,7 +459,7 @@ header .nav-items {
     text-align: center;
     box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1); }
     .charity-01-main .services-01 .ser-box i {
-      color: #fd1b5b;
+      color: ghostwhite;
       font-size: 25px;
       margin: 10px 0px; }
     .charity-01-main .services-01 .ser-box h3 {
@@ -511,7 +511,7 @@ header .nav-items {
         position: absolute;
         content: "\f0c1";
         font-size: 20px;
-        color: #fd1b5b;
+        color: ghostwhite;
         text-align: center;
         font-family: "Font Awesome 5 Pro";
         display: flex;
@@ -563,7 +563,7 @@ header .nav-items {
           vertical-align: middle;
           text-align: center;
           font-size: 0.75rem;
-          color: #fd1b5b;
+          color: ghostwhite;
           transition: all 0.3s;
           -webkit-transition: all 0.4s;
           z-index: 2;
@@ -584,13 +584,13 @@ header .nav-items {
             transform: scale(0.6);
             border-radius: 50%;
             z-index: -1;
-            background: #fd1b5b;
+            background: ghostwhite;
             opacity: 0;
             visibility: hidden;
             transition: 0.4s ease-in-out; }
 .charity-01-main .abt-01 {
   padding: 3.125rem 0;
-  background: #fd1b5b;
+  background: ghostwhite;
   position: relative;
   overflow: hidden;
   z-index: 9; }
@@ -614,18 +614,18 @@ header .nav-items {
     .charity-01-main .abt-01 .heading-wrapper h3 {
       font-size: 1.25rem;
       font-weight: 700;
-      color: #fff;
+      color: black;
       margin-bottom: 0.625rem;
       text-transform: uppercase; }
     .charity-01-main .abt-01 .heading-wrapper ol li {
       display: inline-block;
       font-size: 1rem;
-      color: #ddd; }
+      color: black; }
       .charity-01-main .abt-01 .heading-wrapper ol li:nth-child(2) {
-        color: #fff; }
+        color: black; }
       .charity-01-main .abt-01 .heading-wrapper ol li i {
         margin: 0 0.625rem;
-        color: #ddd; }
+        color: black; }
 .charity-01-main .bg-0-b {
   padding: 50px 0px;
   position: relative;
